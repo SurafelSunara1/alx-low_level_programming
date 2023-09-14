@@ -2,7 +2,7 @@
  * File: 101-natural.c
  * Auth: Surafel Sunara
  */
- 
+
 #include <stdio.h>
 
  /**
